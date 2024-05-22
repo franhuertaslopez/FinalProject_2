@@ -7,4 +7,5 @@
     <string name="password">Password</string>
     <string name="icon_profile_circle">Icon Profile Circle</string>
     <string name="user_e_mail">User/E-Mail</string>
+    <string name="register_text">¿No tienes usuario? Regístrate</string>
 </resources>

@@ -64,7 +64,7 @@
             android:id="@+id/login_button">
 
         </Button>
-        
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -102,5 +102,18 @@
 
         </LinearLayout>
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/register_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/register_text"
+        android:textSize="16sp"
+        android:textColor="@color/grey"
+        android:clickable="true"
+        android:focusable="true" />
 
 </RelativeLayout>
