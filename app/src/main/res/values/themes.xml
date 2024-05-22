@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#00A6FF</item>
+    </style>
+
+    <style name="Theme.FinalProject" parent="Base.Theme.FinalProject" />
+
+    <!-- TEMA DEL SPLASH SCREEN, CONFIGURACIÓN DEL ICONO, COLORES, ETC-->
+    <style name="Theme.AppCompat.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FDFDFD</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/logo_app_foreground</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.FinalProject</item>
+    </style>
+</resources>

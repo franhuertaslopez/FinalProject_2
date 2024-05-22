@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="facebook_icon_button">Facebook Icon Button</string>
+    <string name="login">Login</string>
+    <string name="social_login">Social login</string>
+    <string name="google_icon_button">Google Icon Button</string>
+    <string name="password">Password</string>
+    <string name="icon_profile_circle">Icon Profile Circle</string>
+    <string name="user_e_mail">User/E-Mail</string>
+</resources>
